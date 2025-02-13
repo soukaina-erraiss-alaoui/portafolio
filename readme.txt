@@ -1,0 +1,2 @@
+-debemos anadir un border/hr.
+-ordinar y alinear los elementos del Pie.
